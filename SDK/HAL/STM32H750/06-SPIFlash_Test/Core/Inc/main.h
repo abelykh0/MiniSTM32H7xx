@@ -66,6 +66,7 @@ void Error_Handler(void);
 #define LCD_WR_RS_GPIO_Port GPIOE
 #define F_CS_Pin GPIO_PIN_6
 #define F_CS_GPIO_Port GPIOD
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
@@ -75,5 +76,3 @@ void Error_Handler(void);
 #endif
 
 #endif /* __MAIN_H */
-
-/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
